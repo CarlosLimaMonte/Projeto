@@ -1,8 +1,8 @@
-;---------------------------------------------------
-; Programa: Recebe dois números e multiplica
-; Autor: Carlos Eduardo de Lima Monte Filho
-; Data: 17/09/2025
-;---------------------------------------------------
+ ;---------------------------------------------------
+ ; Programa: Recebe dois números e multiplica
+ ; Autor: Carlos Eduardo de Lima Monte Filho
+ ; Data: 17/09/2025
+ ;---------------------------------------------------
 
 I: DB 1 ; Cria a variável contador -1
 MULT: DB 0 ; Cria a variável contador do multiplicador
